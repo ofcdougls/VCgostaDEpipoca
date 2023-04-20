@@ -1,0 +1,15 @@
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\bin\Debug\net6.0\VCgostaDEpipoca.exe
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\bin\Debug\net6.0\VCgostaDEpipoca.deps.json
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\bin\Debug\net6.0\VCgostaDEpipoca.runtimeconfig.json
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\bin\Debug\net6.0\VCgostaDEpipoca.dll
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\bin\Debug\net6.0\VCgostaDEpipoca.pdb
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\VCgostaDEpipoca.csproj.AssemblyReference.cache
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\VCgostaDEpipoca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\VCgostaDEpipoca.AssemblyInfoInputs.cache
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\VCgostaDEpipoca.AssemblyInfo.cs
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\VCgostaDEpipoca.csproj.CoreCompileInputs.cache
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\VCgostaDEpipoca.dll
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\refint\VCgostaDEpipoca.dll
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\VCgostaDEpipoca.pdb
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\VCgostaDEpipoca.genruntimeconfig.cache
+C:\Users\ofcdo\repositorios\VCgostaDEpipoca\obj\Debug\net6.0\ref\VCgostaDEpipoca.dll
